@@ -14,5 +14,5 @@ measures through the SAT score, of NYC students as a function of exposure to cri
 Please Note:
 
 1. The analysis is at the PUMA level. All data are accessible through NYC open data, the NY state open data portal (NY.gov).
-2. To reproduce the whole analysis please use the code in 
+2. To reproduce the whole analysis please use the code in 20190131_ChildEnvironmentImpactAnalysis.ipynb
 3. Child_Environment_Analysis.md provides the summary of results.
